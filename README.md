@@ -1,6 +1,5 @@
 # NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 Cyber Security Lab Setup
-# NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
 This repository documents the foundational setup of a cybersecurity virtual laboratory environment using **Oracle VirtualBox** and **Kali Linux**, configured in accordance with the **Networkwalks Lab Setup Guide**.
 
@@ -25,3 +24,14 @@ The following screenshots capture the configuration stages and verification of t
 
 ### 1. VirtualBox Manager - VM Details & System Configuration
 Shows the allocated hardware resources, storage controllers, and network adapter settings (`NatNetwork`) assigned to the Kali Linux virtual machine[cite: 3].
+
+### 2. VirtualBox Network Manager - NAT Network Configuration
+Displays the global NAT Network (`NatNetwork`) configuration with IPv4 Prefix (`10.0.2.0/24`) and DHCP server enabled[cite: 2].
+
+### 3. Kali Linux Login Interface
+Verifies the successful boot and operational state of the Kali Linux desktop environment, showing the login screen ready for user authentication[cite: 1].
+
+---
+
+## 🚀 Usage & Next Steps
+This lab serves as the baseline environment for upcoming cybersecurity tasks, penetration testing exercises, and network security analysis modules.
